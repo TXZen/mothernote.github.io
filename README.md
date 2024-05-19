@@ -2,7 +2,7 @@
   <head>
     <style>
       body {
-        background-color: red;
+        background-color: magma;
       }
       a {
         color: white;
@@ -12,7 +12,7 @@
   </head>
   <body>
     <h1>Welcome to my website!</h1>
-    <p id="Dear Mom,
+    <p id="hello">Dear Mom,
 
 I want to take a moment to express my deepest gratitude and love for you. Throughout my life, you’ve been my rock, my confidante, and my guiding light. Your unwavering support, sacrifices, and boundless affection have shaped me into the person I am today.
 
@@ -28,7 +28,7 @@ Happy Mother’s Day!
 
 With all my love,
 
-[Zack]">This is some default text.</p>
+[Zack].</p>
     <a href="https://www.example.com">Click here</a>
     <script>
       document.getElementById("my-text").innerText = "Your own text here!";
